@@ -1,10 +1,25 @@
-body
+body{
+	background-color: #fff;
+}
 
 
 .header{
+	display: flex;
+	flex-direction: row;
+	background-color: #ff6a00;
+	height: 175px;
+	width: 100%;
+	font-family: sans-serif;
+	font-size: 54pt;
+	align-items: center;
+	justify-content: center;
+
 
 }
 
+.div1{
+	
+}
 
 .container{
 	display:flex;
@@ -13,11 +28,11 @@ body
 
 }
 
-.div{
+.div2{
 
 }
 
-.div2{
+.div3{
 
 }
 
