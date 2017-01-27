@@ -17,9 +17,6 @@ body{
 
 }
 
-.div1{
-	
-}
 
 .container{
 	display:flex;
@@ -28,19 +25,23 @@ body{
 }
 
 @media screen {
-	
+	body{
+	 width: 99;
+	}
 }
 
 
 
+
+}
+
+.div1{
+	display: flex;
+	flex-direction: column;
 
 }
 
 .div2{
-
-}
-
-.div3{
 
 }
 
